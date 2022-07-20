@@ -43,7 +43,7 @@
   </a>
   <br>
   <a href="#" title="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qphong0612&layout=compact&border_radius=25" width=450 >
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qphong0612&layout=compact&border_radius=25" width=450 > -->
   </a>
 </div>
 
